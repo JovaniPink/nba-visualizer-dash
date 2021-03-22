@@ -1,6 +1,6 @@
-# Awesome NBA Data [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome NBA Data & Stats [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of awesome NBA Data and resources
+> A curated list of awesome NBA Data & Stats
 
 ## Contents
 
